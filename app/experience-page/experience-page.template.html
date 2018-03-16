@@ -1,0 +1,29 @@
+      <section id="portfolio1">
+          <div class="container">
+              <div class="portfolio1-top">
+                  <h2> DENEYİM </h2>
+                  
+             </div>
+              <div class="portfolio1-top " ng-repeat="architect in $ctrl.architects"> 
+              <p>{{architect.name}}</p>
+              <div class="portfolio1-content text-center " ng-repeat="job in architect.info">
+               <div class="row">
+                 <div class="col-sm-4">
+                   <div class="card">
+                     <img class="images-responsive" ng-src="{{job.imgURL}}">
+                     <div class="card block">
+                       <h6 class="card-title" >{{job.projectName}}  </h6>
+                         <p class= "card-subtitle text-muted" > {{job.projectDetail}}  </p>
+                       </div>
+                     </div>
+                   </div>
+               
+             
+                   </div> 
+                  </div>
+              </div>
+            
+          </div>
+          
+         
+      </section>
