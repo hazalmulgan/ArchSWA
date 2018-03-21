@@ -1,5 +1,5 @@
 'use strict';
 
 angular.module('archApp', [
-  'projectSlider' , 'experiencePage'       
+  'projectSlider' , 'experiencePage'  ,'mainPage'     
 ]);
