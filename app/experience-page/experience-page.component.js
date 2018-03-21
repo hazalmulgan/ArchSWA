@@ -15,7 +15,25 @@ angular.
                  
               {'imgURL': 'images/exp1.png',
               'projectName': 'EAA',
-              'projectDetail':'ulus-savoy'}
+              'projectDetail':'ulus-savoy'},
+                 
+                     
+              {'imgURL': 'images/exp1.png',
+              'projectName': 'EAA',
+              'projectDetail':'ulus-savoy'},
+                     
+              {'imgURL': 'images/exp1.png',
+              'projectName': 'EAA',
+              'projectDetail':'ulus-savoy'},
+                     
+              {'imgURL': 'images/exp1.png',
+              'projectName': 'EAA',
+              'projectDetail':'ulus-savoy'},
+                     
+              {'imgURL': 'images/exp1.png',
+              'projectName': 'EAA',
+              'projectDetail':'ulus-savoy'},
+                     
           ]
                  
       },
@@ -24,6 +42,10 @@ angular.
               'name':"Gamze MULGAN",
              'info': [
               {'imgURL': 'images/exp1.png',
+              'projectName': 'İGA',
+              'projectDetail':'Proje kordinasyon'},
+                 
+                  {'imgURL': 'images/exp1.png',
               'projectName': 'İGA',
               'projectDetail':'Proje kordinasyon'}
           ]
